@@ -41,7 +41,7 @@ This project solves that problem using machine learning models trained on struct
 ### Models Used
 - CatBoost Regressor (Primary Model)
 - Gradient Boosting Regressor
-- Linear Regression (Baseline)
+- Random Forest 
 
 ### Evaluation Metrics
 - R² Score
