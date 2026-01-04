@@ -81,4 +81,3 @@ CatBoost was chosen due to its superior performance on categorical and tabular d
 
 ---
 
-## 📁 Project Structure
